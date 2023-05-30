@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/Task3(28.05).csproj",
+      "projectUniqueName": "/Users/toghrulmusayevv/Desktop/CodeHomeworks/homework(28.05)/Task3(28.05)/Task3(28.05)/Task3(28.05).csproj",
       "projectName": "Task3(28.05)",
-      "projectPath": "/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/Task3(28.05).csproj",
+      "projectPath": "/Users/toghrulmusayevv/Desktop/CodeHomeworks/homework(28.05)/Task3(28.05)/Task3(28.05)/Task3(28.05).csproj",
       "packagesPath": "/Users/toghrulmusayevv/.nuget/packages/",
-      "outputPath": "/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/obj/",
+      "outputPath": "/Users/toghrulmusayevv/Desktop/CodeHomeworks/homework(28.05)/Task3(28.05)/Task3(28.05)/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/toghrulmusayevv/.nuget/NuGet/NuGet.Config"

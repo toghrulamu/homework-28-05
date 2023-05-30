@@ -1,10 +1,10 @@
 ﻿using System;
 namespace task1
 {
-	public class Employee
-	{
-		public string FullName;
-		public double Salary;
+    public class Employee
+    {
+        public string FullName;
+        public double Salary;
 
 
         #region slaryEncup
@@ -31,4 +31,3 @@ namespace task1
         #endregion
     }
 }
-

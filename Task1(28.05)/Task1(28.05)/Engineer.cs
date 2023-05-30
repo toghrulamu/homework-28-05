@@ -1,8 +1,8 @@
 ﻿using System;
 namespace task1
 {
-	public class Engineer: Employee
-	{
+    public class Engineer : Employee
+    {
         public double getAvrgSlry(Engineer[] eng, double avgSlry)
         {
             for (int i = 0; i < eng.Length; i++)
