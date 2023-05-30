@@ -31,48 +31,46 @@
             double avrgSalary = 0;
 
             Engineer[] engiNeer = new Engineer[1];
-            for (int i = 0; i < engiNeer.Length; i++)
-            {
-                Engineer engineer = new Engineer();
-                Console.WriteLine("enter full name");
-                string fullName = Console.ReadLine();
-                engineer.FullName = fullName;
-
-            getsalary:
-                Console.WriteLine("enter salary:");
-                string strSalary = Console.ReadLine();
-                double slry;
-                while (!double.TryParse(strSalary, out slry))
-                {
-                    Console.WriteLine("enter true type salary:");
-                    goto getsalary;
-                }
-                if (slry < 1000)
-                {
-                    Console.WriteLine("Salary cannot be less than 1000");
-                    goto getsalary;
-                }
-
-                engineer.Salary = slry;
-                avrgSalary += slry;
-                //Console.WriteLine($"{engineer.FullName} {engineer.Salary}");
-                engiNeer[i] = engineer;
-                Console.WriteLine("Do you want to add engineer \ny/n");
-                string checker = Console.ReadLine();
-                if (checker == "n")
-                {
-                    break;
-                }
-                Array.Resize(ref engiNeer, engiNeer.Length + 1);
-            }
-            Console.WriteLine($"Avarage Salary: {avrgSalary / engiNeer.Length}");
+            Engineer eng = new Engineer();
+            avrgSalary = eng.getAvrgSlry(engiNeer, avrgSalary);
+            #region methodEng
             //for (int i = 0; i < engiNeer.Length; i++)
             //{
-            //    Console.WriteLine($"FUllNAME:{engiNeer[i].FullName} SALARY:{engiNeer[i].Salary}");
-            //}
-            
+            //    Engineer engineer = new Engineer();
+            //    Console.WriteLine("enter full name");
+            //    string fullName = Console.ReadLine();
+            //    engineer.FullName = fullName;
 
-            //Console.WriteLine(engiNeer[0].FullName + engiNeer[0].Salary);
+            //getsalary:
+            //    Console.WriteLine("enter salary:");
+            //    string strSalary = Console.ReadLine();
+            //    double slry;
+            //    while (!double.TryParse(strSalary, out slry))
+            //    {
+            //        Console.WriteLine("enter true type salary:");
+            //        goto getsalary;
+            //    }
+            //    if (slry < 1000)
+            //    {
+            //        Console.WriteLine("Salary cannot be less than 1000");
+            //        goto getsalary;
+            //    }
+
+            //    engineer.Salary = slry;
+            //    avrgSalary += slry;
+            //    //Console.WriteLine($"{engineer.FullName} {engineer.Salary}");
+            //    engiNeer[i] = engineer;
+            //    Console.WriteLine("Do you want to add engineer \ny/n");
+            //    string checker = Console.ReadLine();
+            //    if (checker == "n")
+            //    {
+            //        break;
+            //    }
+            //    Array.Resize(ref engiNeer, engiNeer.Length + 1);
+            //}
+            #endregion
+            Console.WriteLine($"Avarage Salary: {avrgSalary}");
+            
             #endregion
 
             #region test
