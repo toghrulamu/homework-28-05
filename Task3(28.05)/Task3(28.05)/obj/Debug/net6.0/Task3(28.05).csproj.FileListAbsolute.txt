@@ -1,0 +1,15 @@
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/bin/Debug/net6.0/Task3(28.05)
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/bin/Debug/net6.0/Task3(28.05).deps.json
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/bin/Debug/net6.0/Task3(28.05).runtimeconfig.json
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/bin/Debug/net6.0/Task3(28.05).dll
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/bin/Debug/net6.0/Task3(28.05).pdb
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/obj/Debug/net6.0/Task3(28.05).csproj.AssemblyReference.cache
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/obj/Debug/net6.0/Task3(28.05).GeneratedMSBuildEditorConfig.editorconfig
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/obj/Debug/net6.0/Task3(28.05).AssemblyInfoInputs.cache
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/obj/Debug/net6.0/Task3(28.05).AssemblyInfo.cs
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/obj/Debug/net6.0/Task3(28.05).csproj.CoreCompileInputs.cache
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/obj/Debug/net6.0/Task3(28.05).dll
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/obj/Debug/net6.0/refint/Task3(28.05).dll
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/obj/Debug/net6.0/Task3(28.05).pdb
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/obj/Debug/net6.0/Task3(28.05).genruntimeconfig.cache
+/Users/toghrulmusayevv/Desktop/Task3(28.05)/Task3(28.05)/obj/Debug/net6.0/ref/Task3(28.05).dll
